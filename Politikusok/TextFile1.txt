@@ -1,0 +1,5 @@
+﻿Szorgalmas Péter;19;Logic;Calculus;Programming;WebProgramming
+Tőkés Alajos;53
+Sumák Sándor;22;Programming
+Álmos Zsuzsanna;20;Calculus;Programming
+Zsebes Márton;44
